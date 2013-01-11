@@ -1,0 +1,1 @@
+A very simple Sinatra + Bundler skeleton to be used with the [Monk](https://github.com/monkrb/monk) Framework
